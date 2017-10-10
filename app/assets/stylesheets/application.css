@@ -18,7 +18,7 @@ body {
   background-color: #1c3660;
 }
 
-h1, ol, li {
+h1, ol, li, p {
   color: #FAFAFA;
   text-align: center;
 }
